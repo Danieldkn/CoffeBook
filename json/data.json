@@ -1,0 +1,182 @@
+[
+  {
+    "nombre": "Novelas de terror",
+    "genero": "Terro",
+    "autor":  "H.P. Lovecraft",
+    "editorial": "Lectorum",
+    "precio": 950,
+    "imagen": "./img/libro1.png",
+    "id": 1
+  },
+  {
+    "nombre": "Narraciones extraordinarias",
+    "genero": "Suspenso",
+    "autor":  "Edgan Allan Poe",
+    "editorial": "TIM",
+    "precio": 750,
+    "imagen": "./img/libro2.png",
+    "id": 2
+  },
+  {
+    "nombre": "Ping",
+    "genero": "Infantil",
+    "autor":  "Stuart Avery Gold",
+    "editorial": "Var",
+    "precio": 1000,
+    "imagen": "./img/libro3.png",
+    "id": 3
+  },
+  {
+    "nombre": "Popol wuj",
+    "genero": "Historia",
+    "autor":  "Albertina Saravia E",
+    "editorial": "Porrua",
+    "precio": 100,
+    "imagen": "./img/libro4.png",
+    "id": 4
+  },
+  {
+    "nombre": "Alli donde el mar recuerda",
+    "genero": "Novela",
+    "autor":  "Sandra Benitez",
+    "editorial": "Plaza Janes",
+    "precio": 900,
+    "imagen": "./img/libro5.png",
+    "id": 5
+  },
+  {
+    "nombre": "CELL",
+    "genero": "Suspenso",
+    "autor":  "Stephen King",
+    "editorial": "Plaza Janes",
+    "precio": 400,
+    "imagen": "./img/libro6.png",
+    "id": 6
+  },
+  {
+    "nombre": "El psicoanalista",
+    "genero": "Terror",
+    "autor":  "John Katzenbach",
+    "editorial": "La trama",
+    "precio": 800,
+    "imagen": "./img/libro7.png",
+    "id": 7
+  },
+  {
+    "nombre": "A donde yo soy tu somos",
+    "genero": "Cronica",
+    "autor":  "Carlos Monsivais",
+    "editorial": "Raya enel agua",
+    "precio": 700,
+    "imagen": "./img/libro8.png",
+    "id": 8
+  },
+  {
+    "nombre": "El cuaderno azul",
+    "genero": "Novela",
+    "autor":  "James A. Levine",
+    "editorial": "Mosaico",
+    "precio": 500,
+    "imagen": "./img/libro9.png",
+    "id": 9
+  },
+  {
+    "nombre": "Los complices",
+    "genero": "Politica",
+    "autor":  "Rafael Loret de Mola",
+    "editorial": "Oceano",
+    "precio": 800,
+    "imagen": "./img/libro10.png",
+    "id": 10
+  },
+  {
+    "nombre": "La Republica",
+    "genero": "Filosofia",
+    "autor":  "Platon",
+    "editorial": "Edimat",
+    "precio": 500,
+    "imagen": "./img/libro11.png",
+    "id": 11
+  },
+  {
+    "nombre": "La voz del conocimiento",
+    "genero": "Filosofia",
+    "autor":  "Dr. Miguel Ruiz",
+    "editorial": "Urano",
+    "precio": 200,
+    "imagen": "./img/libro12.png",
+    "id": 12
+  },
+  {
+    "nombre": "La fuente ovejuna",
+    "genero": "Teatro",
+    "autor":  "Lope de Vega",
+    "editorial": "Nuevo talento",
+    "precio": 100,
+    "imagen": "./img/libro13.png",
+    "id": 13
+  },
+  {
+    "nombre": "Comedias",
+    "genero": "Comedia",
+    "autor":  "Moliere",
+    "editorial": "Porrua",
+    "precio": 300,
+    "imagen": "./img/libro14.png",
+    "id": 14
+  },
+  {
+    "nombre": "Las intermitencias de la muerte",
+    "genero": "Analisis",
+    "autor":  "Jose Saramago",
+    "editorial": "Alfaguara",
+    "precio": 500,
+    "imagen": "./img/libro15.png",
+    "id": 15
+  },
+  {
+    "nombre": "La insoportable levedad del ser",
+    "genero": "Novela",
+    "autor":  "Milan Kundera",
+    "editorial": "Fabula tus Quets",
+    "precio": 150,
+    "imagen": "./img/libro16.png",
+    "id": 16
+  },
+  {
+    "nombre": "Arenas movedizas",
+    "genero": "Novela",
+    "autor":  "Octavio PAz",
+    "editorial": "Alianza 100",
+    "precio": 200,
+    "imagen": "./img/libro17.png",
+    "id": 17
+  },
+  {
+    "nombre": "100 Poesias escogidas",
+    "genero": "Poesia",
+    "autor":  "Amado Nervo",
+    "editorial": "Porrua",
+    "precio": 100,
+    "imagen": "./img/libro18.png",
+    "id": 18
+  },
+  {
+    "nombre": "Asi hablaba Zaratustra",
+    "genero": "Filosofia",
+    "autor":  "Frederich Nietzsche",
+    "editorial": "Pluton",
+    "precio": 300,
+    "imagen": "./img/libro19.png",
+    "id": 19
+  },
+  {
+    "nombre": "Tormenta silenciosa",
+    "genero": "Intriga",
+    "autor":  "Amanda Stevens",
+    "editorial": "Harlequin",
+    "precio": 200,
+    "imagen": "./img/libro20.png",
+    "id": 20
+  }
+]
